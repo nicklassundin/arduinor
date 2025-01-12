@@ -1,8 +1,7 @@
 # Arduino Project: Getting Started
 
 ## Overview
-This project is designed to help you get started with Arduino development. The following instructions will guide you through downloading the code, compiling it for Arduino Model A, and uploading it to your device.
-
+Install instructions
 ---
 
 ## Prerequisites

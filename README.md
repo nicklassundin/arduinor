@@ -81,6 +81,8 @@ Ensure you have the following before proceeding:
 - [Arduino Documentation](https://www.arduino.cc/en/Guide/HomePage)
 - [Community Forums](https://forum.arduino.cc/)
 - [GitHub Issues](https://github.com/your-repo-name/arduino-project/issues) for project-specific problems
+- [Nextion Display](https://www.youtube.com/watch?v=YaMKLtj9om0) for display guide
+- [Nextion Get Started](https://randomnerdtutorials.com/nextion-display-with-arduino-getting-started/)
 
 ---
 
